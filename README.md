@@ -6,7 +6,7 @@ The VOCdevkit is the dataset, in a Pascal VOC format, ready for possible trainin
 
 The rest is pretty simple, as all you need to do to train it yourself is download the labeled dataset, and then run `padding.py`, which makes every image the same shape, in order to allow pytorch to better understand it, and to prevent bias I think. 
 
-Installation:
+# Installation:
 
 Download the code
 Install detectnet from [jetson-inference](https://github.com/dusty-nv/jetson-inference)
