@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<annotation>
+<folder>data</folder>
+<filename>moose-droppings-in-the-woods-on-the-ground-T9CF8H (1).jpg</filename>
+<path/>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>866</width>
+<height>1390</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Elk</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<occluded>0</occluded>
+<difficult>0</difficult>
+<bndbox>
+<xmin>293</xmin>
+<ymin>550</ymin>
+<xmax>573</xmax>
+<ymax>772</ymax>
+</bndbox>
+</object>
+</annotation>

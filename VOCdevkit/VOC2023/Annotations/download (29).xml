@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<annotation>
+<folder>data</folder>
+<filename>download (29).jpg</filename>
+<path/>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>290</width>
+<height>174</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Elk</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<occluded>0</occluded>
+<difficult>0</difficult>
+<bndbox>
+<xmin>77</xmin>
+<ymin>34</ymin>
+<xmax>199</xmax>
+<ymax>145</ymax>
+</bndbox>
+</object>
+</annotation>
